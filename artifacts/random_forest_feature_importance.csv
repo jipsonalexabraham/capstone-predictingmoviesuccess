@@ -1,0 +1,689 @@
+feature,importance
+num__duration,0.06392272905316569
+num__num_voted_users,0.061521425629767104
+num__num_critic_for_reviews,0.05968142129225739
+num__actor_1_facebook_likes,0.0471733506842939
+num__num_user_for_reviews,0.04583520758388465
+num__director_facebook_likes,0.04259566132917346
+num__cast_total_facebook_likes,0.04222950386635966
+num__gross,0.04214897984799162
+num__movie_facebook_likes,0.036204612413294
+num__actor_2_facebook_likes,0.03538345605248347
+num__actor_3_facebook_likes,0.03525259102804078
+num__budget,0.034628664900497784
+num__profit,0.03407682906996807
+num__title_year,0.03377405818946907
+num__roi,0.032464606252536096
+num__movie_age,0.030218699276900726
+num__title_length,0.02731134021539374
+cat__actor_1_name_infrequent_sklearn,0.02295090802638225
+num__facenumber_in_poster,0.017046134691435236
+num__genre_count,0.01475747372273095
+cat__content_rating_R,0.01345509700481795
+num__aspect_ratio,0.012476408478698093
+cat__director_name_infrequent_sklearn,0.0118881152688489
+cat__country_USA,0.010078139915712474
+cat__main_genre_Drama,0.008437688647036656
+cat__content_rating_PG-13,0.007989191734915494
+cat__genres_infrequent_sklearn,0.007854965993705491
+cat__content_rating_G,0.007013220979343926
+cat__main_genre_Action,0.00693870116875418
+cat__main_genre_Comedy,0.00617651912108507
+cat__genres_Comedy,0.005873326171699681
+cat__country_UK,0.005737409196851938
+cat__main_genre_Horror,0.005281624379496095
+cat__content_rating_PG,0.004953554205600393
+cat__actor_2_name_infrequent_sklearn,0.004020426445581557
+cat__main_genre_Biography,0.003991325771557932
+cat__language_English,0.0039368735928284335
+cat__genres_Drama,0.0037813204629479303
+cat__main_genre_Adventure,0.00358618218375027
+cat__main_genre_Crime,0.003585133479141622
+num__keyword_count,0.0033838689603596273
+cat__actor_1_name_Alyson Hannigan,0.003339469495485047
+cat__actor_2_name_Carmen Electra,0.0032355553391281034
+cat__director_name_Woody Allen,0.0029348324359770774
+cat__country_India,0.0027833976817116446
+cat__plot_keywords_,0.0027043134224325432
+cat__color_Black and White,0.002667659718537403
+cat__genres_Comedy|Romance,0.0023027823727218297
+cat__genres_Horror,0.0022342920939620835
+cat__main_genre_Documentary,0.002160459099149071
+cat__color_Color,0.0021308848509997737
+cat__country_South Korea,0.002083517998929803
+cat__genres_Comedy|Family|Fantasy,0.0020815722252636726
+cat__country_France,0.002059409979506603
+cat__plot_keywords_infrequent_sklearn,0.0020077195757412162
+cat__genres_Documentary|Music,0.0019924521110440472
+cat__genres_Drama|History|War,0.001978012600560795
+cat__main_genre_infrequent_sklearn,0.001912944585093799
+cat__actor_3_name_infrequent_sklearn,0.0018919418496718041
+cat__genres_Comedy|Drama,0.0018850791662773155
+cat__country_Canada,0.0018464045927687636
+cat__content_rating_Not Rated,0.0016448162292715552
+cat__genres_Comedy|Drama|Romance,0.001618965511118354
+cat__genres_Documentary,0.0016080612217434886
+cat__genres_Drama|Romance,0.0015531608024285262
+cat__genres_Comedy|Musical|Romance,0.0014497891936009633
+cat__genres_Comedy|Sport,0.0014259253809295591
+cat__language_Hindi,0.001336082810739387
+cat__genres_Adventure|Animation|Comedy|Family|Fantasy,0.001220102035924345
+cat__main_genre_Sci-Fi,0.0011099823595314819
+cat__main_genre_Family,0.0011093393100845795
+cat__genres_Comedy|Music,0.0010583374069463684
+cat__genres_Adventure|Comedy,0.001032768775388983
+cat__genres_Comedy|Crime|Romance,0.0010085342797777927
+cat__genres_Drama|Music|Romance,0.000961088584317211
+cat__actor_3_name_John Heard,0.0009537027823446764
+cat__genres_Horror|Thriller,0.0009183374187969134
+cat__genres_Action|Adventure|Sci-Fi,0.0009158862785931471
+cat__actor_2_name_Udo Kier,0.0008812679047714296
+cat__genres_Action|Adventure|Fantasy|Sci-Fi|Thriller,0.0008590188352390522
+cat__country_Italy,0.0008335194421167004
+cat__genres_Adventure|Family,0.0007861117649442632
+cat__country_Germany,0.0007053581956244386
+cat__actor_2_name_Thomas Kretschmann,0.000702524003274122
+cat__actor_2_name_Morgan Freeman,0.0006996936069959092
+cat__language_French,0.0006590043438278771
+cat__content_rating_Approved,0.0005669250061936308
+cat__genres_Crime|Drama|Thriller,0.000564711913153429
+cat__main_genre_Animation,0.000528866835033155
+cat__genres_Crime|Drama|Mystery|Thriller,0.0004872542683122068
+cat__country_infrequent_sklearn,0.0004673368136092673
+cat__genres_Horror|Mystery|Thriller,0.00045694462845653245
+cat__genres_Comedy|Crime,0.00044338240710096446
+cat__genres_Action|Adventure|Fantasy,0.00041706224353904776
+cat__content_rating_Unrated,0.00036511125993933443
+cat__genres_Action|Crime|Drama|Thriller,0.0003643882885177204
+cat__genres_Drama|Thriller,0.0003552360238377533
+cat__content_rating_TV-14,0.00031149288031704335
+cat__genres_Action|Adventure|Sci-Fi|Thriller,0.0003109597195054199
+cat__genres_Action|Thriller,0.0002809495110581851
+cat__genres_Action|Crime|Thriller,0.0002792238256677271
+cat__actor_1_name_Robert Pattinson,0.0002773017667710765
+cat__genres_Action|Adventure|Thriller,0.000270503086948204
+cat__country_Australia,0.0002469746645876233
+cat__genres_Comedy|Horror,0.00024606593083618754
+cat__language_Spanish,0.00021566459586543258
+cat__genres_Drama|Horror|Mystery|Thriller,0.0002106598179584337
+cat__language_infrequent_sklearn,0.00020698070757749472
+cat__main_genre_Fantasy,0.0002029797579366319
+cat__director_name_Renny Harlin,0.0002003208383526136
+cat__genres_Action|Horror|Sci-Fi|Thriller,0.00019349467033270146
+cat__content_rating_TV-MA,0.00018654193130628288
+cat__main_genre_Thriller,0.00018446137548860236
+cat__genres_Comedy|Family,0.0001815497702228045
+cat__actor_1_name_Liam Neeson,0.00018092848241939156
+cat__genres_Horror|Mystery,0.00018056686672521507
+cat__director_name_Tyler Perry,0.00017099010478001573
+cat__director_name_Rob Cohen,0.00016817405023200185
+cat__actor_1_name_Steve Buscemi,0.00016313103191409597
+cat__actor_1_name_Sylvester Stallone,0.0001630786506720687
+cat__actor_1_name_Robert De Niro,0.00015929356262474662
+cat__genres_Drama|Mystery|Thriller,0.00015736806494426206
+cat__actor_1_name_J.K. Simmons,0.000145613990082967
+cat__genres_Comedy|Family|Romance,0.0001441808414425739
+cat__actor_1_name_Johnny Depp,0.0001417552892364347
+cat__genres_Action|Comedy|Crime,0.0001390170271330469
+cat__actor_1_name_Bruce Willis,0.00013783622281772687
+cat__main_genre_Mystery,0.0001336174134719108
+cat__country_China,0.00013250224951616942
+cat__genres_Action|Comedy|Crime|Thriller,0.00013199617840683228
+cat__genres_Drama|Family,0.00013080196666883753
+cat__language_Mandarin,0.00013010746818862014
+cat__genres_Crime|Drama,0.00012825844016245286
+cat__genres_Adventure|Animation|Comedy|Family,0.00012768731991787287
+cat__actor_1_name_Denzel Washington,0.00012598665695635726
+cat__actor_2_name_Jason Flemyng,0.00012386784395066966
+cat__actor_1_name_Milla Jovovich,0.00012197321130914101
+cat__actor_1_name_Gerard Butler,0.00012181498895751507
+cat__genres_Action|Horror|Thriller,0.0001195505141151574
+cat__genres_Drama|Sport,0.0001189206966888656
+cat__actor_1_name_Jon Favreau,0.00011819352643554693
+cat__director_name_Louis Leterrier,0.00011747427318871482
+cat__actor_1_name_Ryan Reynolds,0.00011694754764867378
+cat__genres_Action|Adventure|Comedy,0.00011556942460322487
+cat__genres_Adventure|Family|Fantasy,0.00011352437339961186
+cat__genres_Horror|Sci-Fi|Thriller,0.00011323802873581778
+cat__genres_Thriller,0.00011279682321164376
+cat__actor_1_name_Robert Downey Jr.,0.00011169363405300067
+cat__genres_Drama|Horror|Thriller,0.0001106984982283981
+cat__actor_1_name_Chloë Grace Moretz,0.00010971180859479955
+cat__genres_Action|Sci-Fi|Thriller,0.00010920661133405033
+cat__director_name_Shawn Levy,0.00010787047996532769
+cat__genres_Drama|Sci-Fi|Thriller,0.00010714721705828315
+cat__actor_1_name_Matt Damon,0.00010645607019283058
+cat__genres_Biography|Drama,0.00010470958649734604
+cat__actor_1_name_Bill Murray,0.00010379992096540274
+cat__country_Mexico,0.00010300013208194388
+cat__director_name_Bill Condon,0.00010183239806960187
+cat__genres_Biography|Drama|History,0.00010176846918763002
+cat__country_Japan,0.00010116243037812672
+cat__genres_Action|Drama|Thriller,0.00010052274772953202
+cat__actor_1_name_Jim Broadbent,9.750258922646116e-05
+cat__actor_1_name_Nicolas Cage,9.640941064584421e-05
+cat__director_name_M. Night Shyamalan,9.38592169644313e-05
+cat__actor_1_name_Michael Jai White,9.240186178942176e-05
+cat__genres_Biography|Drama|Sport,8.849014494402117e-05
+cat__actor_1_name_Morgan Freeman,8.427989795633441e-05
+cat__actor_1_name_Paul Walker,8.371643439597826e-05
+cat__actor_2_name_Judy Greer,8.359608875863693e-05
+cat__director_name_David Zucker,8.338859619891659e-05
+cat__director_name_Wes Craven,8.333813458108885e-05
+cat__content_rating_X,8.184113067339645e-05
+cat__actor_2_name_Eddie Griffin,8.097042319941341e-05
+cat__actor_1_name_Channing Tatum,8.083859016199676e-05
+cat__genres_Comedy|Sci-Fi,8.055462099729561e-05
+cat__actor_1_name_Dwayne Johnson,8.051995715643525e-05
+cat__actor_2_name_Adam Sandler,7.898256301690618e-05
+cat__actor_1_name_Gary Oldman,7.86335112655924e-05
+cat__director_name_Joel Schumacher,7.785159034684472e-05
+cat__director_name_John Whitesell,7.784876044115506e-05
+cat__main_genre_Western,7.776772388177856e-05
+cat__genres_Comedy|Fantasy|Romance,7.771197621129384e-05
+cat__content_rating_TV-PG,7.548536864593022e-05
+cat__genres_Action|Comedy,7.52194329633276e-05
+cat__actor_1_name_Anthony Hopkins,7.307465873364287e-05
+cat__actor_1_name_Jason Statham,7.22485842224423e-05
+cat__director_name_Joe Wright,7.110909555205841e-05
+cat__genres_Action|Crime|Drama|Mystery|Thriller,7.062238897031871e-05
+cat__country_Russia,7.006048943321153e-05
+cat__director_name_Jaume Collet-Serra,6.999914495797721e-05
+cat__actor_1_name_Dennis Quaid,6.991282665927977e-05
+cat__director_name_Peter Hyams,6.947101824960625e-05
+cat__genres_Crime|Drama|Romance|Thriller,6.921110365819059e-05
+cat__actor_1_name_Will Smith,6.815763795577403e-05
+cat__actor_1_name_Naomi Watts,6.801412085205611e-05
+cat__genres_Fantasy|Horror|Thriller,6.773712496185333e-05
+cat__actor_1_name_Roddy McDowall,6.690680173260466e-05
+cat__genres_Action|Comedy|Sci-Fi,6.633573191264049e-05
+cat__genres_Drama|Horror|Sci-Fi|Thriller,6.506815801053399e-05
+cat__country_Hong Kong,6.485515170705024e-05
+cat__language_Japanese,6.364880167048578e-05
+cat__director_name_Donald Petrie,6.344148468671597e-05
+cat__genres_Crime|Mystery|Thriller,6.32694792596512e-05
+cat__actor_1_name_James Franco,6.190922574842388e-05
+cat__genres_Drama|Music,6.064791122597715e-05
+cat__director_name_David Ayer,6.062916360477817e-05
+cat__actor_1_name_Kristen Stewart,5.936196755195124e-05
+cat__actor_1_name_Will Ferrell,5.926710914503767e-05
+cat__director_name_Brett Ratner,5.9171176763301865e-05
+cat__genres_Comedy|Crime|Drama,5.886776926279813e-05
+cat__director_name_Paul Weitz,5.827622335786824e-05
+cat__actor_1_name_Alexa PenaVega,5.8129599755090845e-05
+cat__actor_1_name_Tom Hanks,5.753062257060914e-05
+cat__actor_1_name_Salma Hayek,5.750027948509961e-05
+cat__director_name_Raja Gosnell,5.685113958066157e-05
+cat__actor_1_name_Michael Biehn,5.605950783073772e-05
+cat__actor_1_name_Scarlett Johansson,5.475340394317717e-05
+cat__country_Spain,5.443505986225941e-05
+cat__actor_1_name_Amy Poehler,5.442560403276468e-05
+cat__actor_1_name_Keanu Reeves,5.4314938775040305e-05
+cat__content_rating_TV-G,5.329544400493393e-05
+cat__director_name_Steven Spielberg,5.091114302709846e-05
+cat__director_name_Paul McGuigan,5.090488398628378e-05
+cat__director_name_Yimou Zhang,5.0563105593653264e-05
+cat__content_rating_Passed,5.020187762272622e-05
+cat__genres_Crime|Thriller,5.0025835648701735e-05
+cat__actor_1_name_Ray Winstone,4.962600753552123e-05
+cat__actor_1_name_Tom Cruise,4.949066703087717e-05
+cat__director_name_Paul W.S. Anderson,4.886290131842781e-05
+cat__actor_1_name_Christian Bale,4.8228817799819413e-05
+cat__actor_1_name_Emma Stone,4.7673049629437274e-05
+cat__genres_Action|Adventure|Comedy|Family|Sci-Fi,4.7295955624177006e-05
+cat__actor_1_name_Colin Firth,4.6901393027004324e-05
+cat__director_name_Garry Marshall,4.666361179065836e-05
+cat__language_Italian,4.6315808424618636e-05
+cat__actor_1_name_Hugh Jackman,4.60762693030916e-05
+cat__director_name_Chris Columbus,4.586687457504384e-05
+cat__actor_1_name_Vin Diesel,4.544323360255265e-05
+cat__actor_1_name_Jennifer Jason Leigh,4.532314638017053e-05
+cat__director_name_Dennis Dugan,4.466117385521754e-05
+cat__actor_2_name_Kenan Thompson,4.4571973168797944e-05
+cat__director_name_John Singleton,4.4061946481799115e-05
+cat__actor_1_name_Matthew McConaughey,4.35544727875741e-05
+cat__genres_Adventure|Comedy|Family|Fantasy,4.3494032457503625e-05
+cat__actor_2_name_Charlize Theron,4.3438164946505544e-05
+cat__genres_Mystery|Thriller,4.315235086846247e-05
+cat__genres_Comedy|Romance|Sport,4.304874900763842e-05
+cat__actor_1_name_Philip Seymour Hoffman,4.295521448675354e-05
+cat__actor_2_name_Angelina Jolie Pitt,4.290859544349698e-05
+cat__actor_2_name_Rosario Dawson,4.2873258580730715e-05
+cat__actor_1_name_Harrison Ford,4.2749829488593894e-05
+cat__genres_Action|Adventure|Animation|Comedy|Family,4.246020770490114e-05
+cat__director_name_Roland Emmerich,4.210028731403812e-05
+cat__director_name_Simon West,4.208292092537889e-05
+cat__actor_2_name_Clea DuVall,4.177305542101547e-05
+cat__actor_1_name_Leonardo DiCaprio,4.1585243111132654e-05
+cat__genres_Drama|War,4.1464992963375784e-05
+cat__language_Cantonese,4.115297207741859e-05
+cat__actor_2_name_Lin Shaye,4.0713860706984046e-05
+cat__actor_1_name_Holly Hunter,4.0482132262873786e-05
+cat__director_name_Tobe Hooper,4.0478393372169475e-05
+cat__actor_1_name_Chris Hemsworth,4.0287352683311025e-05
+cat__director_name_Robert Rodriguez,4.028131453592711e-05
+cat__actor_1_name_Mila Kunis,3.9975891708361667e-05
+cat__director_name_Michael Winterbottom,3.987549387928634e-05
+cat__actor_1_name_Adam Sandler,3.947765333325341e-05
+cat__actor_1_name_Brendan Fraser,3.947377931028448e-05
+cat__actor_2_name_Demi Moore,3.924143589404559e-05
+cat__actor_1_name_Bokeem Woodbine,3.9111287268694007e-05
+cat__actor_2_name_Steve Buscemi,3.907418581074766e-05
+cat__genres_Comedy|Drama|Music,3.860827180175518e-05
+cat__director_name_Frank Coraci,3.856014892762086e-05
+cat__genres_Adventure|Drama,3.789635216993358e-05
+cat__genres_Biography|Drama|Romance,3.776304083632344e-05
+cat__actor_1_name_Clint Eastwood,3.772022232490782e-05
+cat__director_name_Tony Scott,3.7398286469987966e-05
+cat__actor_1_name_Meryl Streep,3.710240968826146e-05
+cat__actor_1_name_Rosario Dawson,3.6966608276372845e-05
+cat__genres_Action|Drama,3.689415446864055e-05
+cat__country_New Zealand,3.679742990915081e-05
+cat__director_name_Ivan Reitman,3.659420317940838e-05
+cat__genres_Comedy|Drama|Fantasy|Romance,3.6469713409796176e-05
+cat__actor_1_name_Bill Cobbs,3.632365906080915e-05
+cat__actor_1_name_Stephen Root,3.608736881567718e-05
+cat__genres_Drama|Western,3.592531387669245e-05
+cat__genres_Fantasy|Horror,3.534483197853155e-05
+cat__director_name_Bobby Farrelly,3.5209562871993455e-05
+cat__actor_1_name_Jeff Bridges,3.513997810795769e-05
+cat__director_name_John Carpenter,3.502053030949617e-05
+cat__actor_1_name_Angelina Jolie Pitt,3.4866788146569744e-05
+cat__actor_1_name_Joseph Gordon-Levitt,3.48644979086494e-05
+cat__director_name_Spike Lee,3.4789087784366e-05
+cat__actor_1_name_Alfre Woodard,3.459411511272559e-05
+cat__actor_1_name_Daniel Roebuck,3.3514831193282264e-05
+cat__genres_Comedy|Crime|Thriller,3.345019142283475e-05
+cat__actor_1_name_Jennifer Lawrence,3.327220521661656e-05
+cat__director_name_Peter Jackson,3.291830366885048e-05
+cat__actor_2_name_Jay Hernandez,3.281053217488707e-05
+cat__actor_1_name_Bernie Mac,3.269062137565626e-05
+cat__genres_Adventure|Drama|Romance,3.2683969623422764e-05
+cat__director_name_Michael Bay,3.2635759945000735e-05
+cat__genres_Action|Drama|Sci-Fi|Thriller,3.246685406781672e-05
+cat__actor_2_name_Gary Cole,3.2456991480997654e-05
+cat__genres_Biography|Crime|Drama,3.204299214632289e-05
+cat__director_name_George A. Romero,3.1678354561418864e-05
+cat__actor_1_name_Oliver Platt,3.153445515263811e-05
+cat__actor_1_name_Jake Gyllenhaal,3.146727140662958e-05
+cat__actor_1_name_Jamie Lee Curtis,3.0911670693276974e-05
+cat__director_name_Paul Verhoeven,3.053422651897405e-05
+cat__actor_1_name_Haley Joel Osment,3.050935579067434e-05
+cat__language_Russian,3.0221571432282275e-05
+cat__actor_1_name_Justin Timberlake,3.0102832758097923e-05
+cat__actor_2_name_Robert Duvall,3.0009863034256053e-05
+cat__actor_1_name_Bob Hoskins,2.9656657966654378e-05
+cat__genres_Action|Drama|War,2.960856848409254e-05
+cat__director_name_Brian De Palma,2.953842110172595e-05
+cat__actor_1_name_Judy Greer,2.9457107569599122e-05
+cat__actor_3_name_Shawn Hatosy,2.9282891878837377e-05
+cat__actor_1_name_Sarah Michelle Gellar,2.917187549512383e-05
+cat__actor_1_name_Woody Allen,2.9107284351488032e-05
+cat__director_name_Robert Schwentke,2.8911579967680673e-05
+cat__director_name_Ridley Scott,2.8842399726404662e-05
+cat__actor_2_name_Julia Roberts,2.848006452419804e-05
+cat__actor_1_name_George Kennedy,2.8458707534219856e-05
+cat__actor_1_name_Julia Roberts,2.8014813449641535e-05
+cat__genres_Adventure|Comedy|Family,2.8002731551649215e-05
+cat__actor_1_name_Robin Williams,2.790912860588944e-05
+cat__director_name_Cameron Crowe,2.7679841945184738e-05
+cat__actor_1_name_Kevin Spacey,2.750253642155523e-05
+cat__director_name_Malcolm D. Lee,2.731383494460278e-05
+cat__genres_Action|Adventure|Comedy|Thriller,2.6938834016194457e-05
+cat__genres_Action|Drama|Thriller|War,2.6865847687895065e-05
+cat__genres_Comedy|Fantasy|Horror|Thriller,2.662010351665445e-05
+cat__director_name_Kevin Smith,2.6276761580880137e-05
+cat__genres_Action|Sci-Fi,2.620178008447975e-05
+cat__director_name_Danny Boyle,2.6152398077243267e-05
+cat__actor_1_name_Costas Mandylor,2.6011064129469427e-05
+cat__actor_2_name_Salma Hayek,2.594420321932055e-05
+cat__actor_1_name_Chazz Palminteri,2.5917730909580065e-05
+cat__genres_Sci-Fi|Thriller,2.58547059899095e-05
+cat__director_name_Frank Oz,2.5833022554876483e-05
+cat__genres_Biography|Drama|History|Romance,2.5798043289018413e-05
+cat__director_name_Richard Lester,2.56393502401386e-05
+cat__actor_3_name_Michael Wincott,2.5489341655811613e-05
+cat__actor_2_name_Rip Torn,2.537169009952019e-05
+cat__director_name_Richard Donner,2.5245098301350495e-05
+cat__genres_Comedy|Drama|Family,2.4941813817296244e-05
+cat__actor_2_name_Kristin Scott Thomas,2.481503302627893e-05
+cat__actor_1_name_Christopher Lee,2.4745442759285155e-05
+cat__genres_Comedy|Crime|Drama|Thriller,2.455878950978906e-05
+cat__genres_Crime|Drama|Romance,2.4441394966765645e-05
+cat__genres_Drama|Romance|Sci-Fi,2.435100012121411e-05
+cat__country_Brazil,2.4012048091897143e-05
+cat__director_name_David Cronenberg,2.3983944351291807e-05
+cat__actor_3_name_Steve Coogan,2.3916192413763748e-05
+cat__genres_Adventure|Animation|Family|Fantasy,2.3802786068107253e-05
+cat__country_Sweden,2.3788834356132578e-05
+cat__genres_Comedy|Drama|Sport,2.3749337944028907e-05
+cat__director_name_Adam Shankman,2.3701934945677975e-05
+cat__genres_Action|Adventure|Drama|Romance,2.3569464595132586e-05
+cat__director_name_Barry Levinson,2.3503969581267103e-05
+cat__actor_1_name_Natasha Lyonne,2.3483095139845192e-05
+cat__director_name_Ron Howard,2.3460303027544262e-05
+cat__actor_1_name_Samantha Morton,2.345909621550431e-05
+cat__actor_1_name_Natalie Portman,2.29727297223073e-05
+cat__director_name_Barry Sonnenfeld,2.288055372329872e-05
+cat__director_name_John McTiernan,2.2456635379098313e-05
+cat__actor_1_name_Jimmy Bennett,2.225357469540783e-05
+cat__actor_1_name_Minnie Driver,2.220587258307677e-05
+cat__actor_1_name_Anne Hathaway,2.204974733047668e-05
+cat__genres_Comedy|Fantasy|Horror,2.191627988977245e-05
+cat__actor_1_name_Chris Evans,2.1910939587897106e-05
+cat__actor_1_name_Kate Winslet,2.1618602912264847e-05
+cat__actor_3_name_Hope Davis,2.1553952263455076e-05
+cat__actor_1_name_Don Cheadle,2.1477503713240523e-05
+cat__director_name_Martin Scorsese,2.1384845240266437e-05
+cat__actor_1_name_Tom Hardy,2.129773972478851e-05
+cat__actor_1_name_Bradley Cooper,2.1279633610738615e-05
+cat__actor_1_name_Viggo Mortensen,2.1179754793286692e-05
+cat__genres_Crime|Horror|Thriller,2.1169745983470874e-05
+cat__genres_Action|Crime|Sci-Fi|Thriller,2.1064472623869884e-05
+cat__genres_Action|Adventure|Drama|Thriller,2.0968171939779746e-05
+cat__actor_2_name_John Heard,2.0956007659415203e-05
+cat__genres_Comedy|Drama|Romance|Sport,2.0858993975968566e-05
+cat__actor_2_name_Mako,2.0820440659349532e-05
+cat__language_German,2.077850350844828e-05
+cat__actor_1_name_Jet Li,2.0764745982365954e-05
+cat__director_name_Peter Berg,2.0657621913989575e-05
+cat__actor_1_name_Logan Lerman,2.0605163644284247e-05
+cat__actor_1_name_Kevin Zegers,2.024080566095344e-05
+cat__actor_1_name_Daniel Radcliffe,1.9932232142772824e-05
+cat__actor_3_name_Jose Pablo Cantillo,1.9924107892296433e-05
+cat__genres_Animation|Comedy|Family,1.9905968937984334e-05
+cat__director_name_John Madden,1.984708114105884e-05
+cat__country_South Africa,1.9804111805980116e-05
+cat__genres_Fantasy|Horror|Mystery|Thriller,1.978949840507478e-05
+cat__director_name_Ang Lee,1.975335984201907e-05
+cat__actor_2_name_Tom Wilkinson,1.9677476064238135e-05
+cat__actor_1_name_Ed Begley Jr.,1.939844749797386e-05
+cat__actor_2_name_Meryl Streep,1.9394583467598493e-05
+cat__actor_1_name_Kirsten Dunst,1.9195256040079297e-05
+cat__actor_2_name_Zooey Deschanel,1.914911304291463e-05
+cat__director_name_Martin Campbell,1.909397056900921e-05
+cat__director_name_Rob Reiner,1.8998570511901786e-05
+cat__actor_1_name_Al Pacino,1.890312945328333e-05
+cat__actor_2_name_Jim Broadbent,1.8865149162867035e-05
+cat__director_name_Clint Eastwood,1.883227977531957e-05
+cat__director_name_Guillermo del Toro,1.877341976086746e-05
+cat__genres_Adventure|Fantasy,1.8459042265560864e-05
+cat__actor_1_name_LL Cool J,1.8337340022664522e-05
+cat__director_name_Robert Zemeckis,1.8182585709935193e-05
+cat__content_rating_infrequent_sklearn,1.8038031544985007e-05
+cat__actor_2_name_Michael Fassbender,1.8030159666185277e-05
+cat__actor_1_name_Adam Scott,1.7905068717418747e-05
+cat__actor_2_name_Spencer Wilding,1.7823870540364847e-05
+cat__actor_2_name_Stephen Root,1.7774251170624334e-05
+cat__actor_1_name_Jeremy Renner,1.7705762576824743e-05
+cat__genres_Western,1.7700833816916347e-05
+cat__actor_1_name_Joe Mantegna,1.7595473410243634e-05
+cat__director_name_James Wan,1.7572034147455182e-05
+cat__country_Denmark,1.7419429699911873e-05
+cat__genres_Adventure|Animation|Family,1.7338711394862505e-05
+cat__genres_Drama|Mystery|Romance|Thriller,1.7337882277493197e-05
+cat__director_name_Francis Ford Coppola,1.733060665947332e-05
+cat__actor_1_name_Jon Lovitz,1.728548714043105e-05
+cat__director_name_Jon Turteltaub,1.7274278750093386e-05
+cat__actor_1_name_Anna Kendrick,1.704573112815225e-05
+cat__actor_1_name_Dominic Cooper,1.6954473304619978e-05
+cat__genres_Mystery|Sci-Fi|Thriller,1.6836906605493836e-05
+cat__actor_1_name_Michael Fassbender,1.6797120945505562e-05
+cat__actor_1_name_Anjelica Huston,1.657389836407556e-05
+cat__actor_1_name_Mo'Nique,1.6277733560816176e-05
+cat__genres_Action|Adventure,1.6115685642575566e-05
+cat__actor_2_name_Brad Pitt,1.6065225388596024e-05
+cat__director_name_Neil Jordan,1.5799537621048522e-05
+cat__genres_Action|Comedy|Romance,1.57884729723364e-05
+cat__genres_Action|Adventure|Drama|Fantasy,1.5753595186087827e-05
+cat__director_name_Paul Schrader,1.569068311711512e-05
+cat__actor_1_name_Demi Moore,1.565482405283706e-05
+cat__actor_1_name_Zooey Deschanel,1.5590967684168834e-05
+cat__director_name_Alfred Hitchcock,1.541175366237668e-05
+cat__actor_3_name_Lois Maxwell,1.5230591134014375e-05
+cat__actor_2_name_Tom Arnold,1.5165558322198583e-05
+cat__genres_Action,1.4926262376958941e-05
+cat__actor_2_name_Miranda Richardson,1.479163020659048e-05
+cat__actor_2_name_Michael Rapaport,1.4762783255783222e-05
+cat__actor_1_name_Bruce Greenwood,1.4747188751837859e-05
+cat__director_name_F. Gary Gray,1.4718110175748437e-05
+cat__director_name_Mike Newell,1.467091320007626e-05
+cat__genres_Comedy|Horror|Thriller,1.463073688610485e-05
+cat__actor_1_name_Macaulay Culkin,1.4478224192734765e-05
+cat__actor_2_name_James Franco,1.4232345096140014e-05
+cat__actor_3_name_Ben Mendelsohn,1.4147500487782557e-05
+cat__director_name_Stephen Hopkins,1.402709844826175e-05
+cat__actor_1_name_Gary Cole,1.3993927008258655e-05
+cat__genres_Drama|Fantasy,1.3710151503417924e-05
+cat__actor_1_name_Peter Dinklage,1.3640415623142017e-05
+cat__director_name_Taylor Hackford,1.3571647115434246e-05
+cat__actor_1_name_Djimon Hounsou,1.3522041026254929e-05
+cat__genres_Adventure|Comedy|Drama,1.274387387132661e-05
+cat__actor_1_name_Charlotte Rampling,1.2717748902539524e-05
+cat__genres_Drama|Fantasy|Romance,1.2636367040362519e-05
+cat__language_Swedish,1.2539140704164453e-05
+cat__director_name_Neil Burger,1.253679553169592e-05
+cat__genres_Drama|Romance|War,1.2504264981986627e-05
+cat__director_name_Curtis Hanson,1.2251771012004807e-05
+cat__genres_Action|Comedy|Crime|Drama|Thriller,1.206002807136645e-05
+cat__genres_Comedy|Horror|Sci-Fi,1.1774927669134165e-05
+cat__actor_1_name_Henry Cavill,1.1629370990116855e-05
+cat__director_name_Peter Chelsom,1.1565642661523797e-05
+cat__genres_Action|Drama|History|War,1.1431044042038326e-05
+cat__director_name_Oliver Stone,1.1190813247586547e-05
+cat__director_name_Roman Polanski,1.1168412400979213e-05
+cat__director_name_Stephen Frears,1.1078110021627776e-05
+cat__director_name_Kirk Jones,1.1059194837014215e-05
+cat__genres_Action|Horror|Sci-Fi,1.098385622166229e-05
+cat__actor_2_name_Olivia Wilde,1.0931089548962872e-05
+cat__genres_Action|Drama|Sport,1.0829118740766234e-05
+cat__actor_1_name_Adam Goldberg,1.0706782141392162e-05
+cat__actor_1_name_Nia Long,1.0663843218010264e-05
+cat__director_name_John Landis,1.062670090688257e-05
+cat__director_name_Terry Gilliam,1.050550365836695e-05
+cat__director_name_Lasse Hallström,1.047021440958619e-05
+cat__actor_1_name_Olivia Wilde,1.0439243892094322e-05
+cat__director_name_Nancy Meyers,1.0433979993909764e-05
+cat__actor_1_name_Robin Wright,1.0311202490291016e-05
+cat__actor_1_name_Jada Pinkett Smith,1.0291525599007253e-05
+cat__director_name_George Lucas,1.0102536205128634e-05
+cat__genres_Drama|History|Romance|War,1.0093545297608764e-05
+cat__director_name_Norman Jewison,9.998292118723653e-06
+cat__director_name_Adam McKay,9.945618509777168e-06
+cat__genres_Biography|Crime|Drama|Thriller,9.899740635740205e-06
+cat__actor_3_name_Bokeem Woodbine,9.875358228004636e-06
+cat__actor_2_name_Kate Winslet,9.770456858277566e-06
+cat__actor_1_name_Tom Wilkinson,9.676516019399926e-06
+cat__actor_2_name_Mark Addy,9.471323476634333e-06
+cat__genres_Drama|Romance|Western,9.395140179966644e-06
+cat__actor_1_name_Martin Landau,9.380756129756433e-06
+cat__director_name_David Lynch,9.370844458662178e-06
+cat__genres_Action|Mystery|Sci-Fi|Thriller,9.255834663345057e-06
+cat__genres_Adventure|Comedy|Sci-Fi,9.198186649545995e-06
+cat__actor_2_name_Wayne Knight,9.121056987055018e-06
+cat__actor_1_name_Michael Imperioli,9.073320503568138e-06
+cat__actor_1_name_Topher Grace,9.0489088950717e-06
+cat__actor_3_name_Rene Russo,8.981584120084208e-06
+cat__genres_Biography|Drama|Music,8.969587366413504e-06
+cat__genres_Action|Adventure|Fantasy|Sci-Fi,8.89436879606131e-06
+cat__director_name_Tim Burton,8.876116769633668e-06
+cat__actor_2_name_Frankie Muniz,8.833429985537925e-06
+cat__actor_1_name_Billy Burke,8.790887806188092e-06
+cat__genres_Documentary|Sport,8.765456429480594e-06
+cat__director_name_Chuck Russell,8.721333667197069e-06
+cat__director_name_Tom Shadyac,8.6629708030161e-06
+cat__actor_3_name_Mary Kay Place,8.573149425039383e-06
+cat__director_name_Richard Linklater,8.524592246179014e-06
+cat__actor_2_name_Chazz Palminteri,8.442239451168559e-06
+cat__director_name_James Cameron,8.392460894452286e-06
+cat__actor_2_name_Scott Glenn,8.274880996454167e-06
+cat__actor_2_name_Fred Willard,8.158434292097458e-06
+cat__actor_2_name_Sarah Polley,8.154038329442874e-06
+cat__actor_2_name_Eddie Marsan,8.041338785608904e-06
+cat__actor_1_name_Steve Carell,8.011395145621725e-06
+cat__genres_Action|Crime|Mystery|Thriller,8.006073736125584e-06
+cat__director_name_Harold Ramis,7.901767725384727e-06
+cat__genres_Action|Adventure|Drama,7.826817830397882e-06
+cat__director_name_Steven Soderbergh,7.805777009906878e-06
+cat__genres_Drama|History,7.783000858986473e-06
+cat__director_name_Sam Raimi,7.773729601901088e-06
+cat__genres_Drama|Mystery,7.468897454771614e-06
+cat__director_name_James Mangold,7.3411953792920735e-06
+cat__director_name_Stanley Kubrick,7.317346795688109e-06
+cat__genres_Drama|History|Thriller,7.264077663068211e-06
+cat__actor_2_name_William Hurt,7.201454327561947e-06
+cat__genres_Comedy|Fantasy,7.191628217880927e-06
+cat__genres_Action|Adventure|Western,7.165232910596307e-06
+cat__director_name_Peter Segal,7.140388444238279e-06
+cat__genres_Action|Adventure|Crime|Thriller,6.833468005329078e-06
+cat__actor_3_name_John Gielgud,6.747476466499422e-06
+cat__genres_Drama|Romance|Thriller,6.710136374802959e-06
+cat__actor_3_name_Tom Wilkinson,6.637226805676917e-06
+cat__actor_3_name_Bruce McGill,6.513489519756351e-06
+cat__actor_2_name_Jeffrey Jones,6.495309419023981e-06
+cat__genres_Drama|Mystery|Sci-Fi|Thriller,6.35778139754934e-06
+cat__director_name_Guy Hamilton,6.333734263817105e-06
+cat__actor_1_name_Hayden Christensen,6.324196218628234e-06
+cat__director_name_Kenneth Branagh,6.318034889609991e-06
+cat__actor_1_name_David Oyelowo,6.293677797319405e-06
+cat__director_name_Stephen Herek,6.254479337328555e-06
+cat__actor_1_name_Robert Duvall,6.188934004572487e-06
+cat__director_name_William Friedkin,6.15916784811716e-06
+cat__actor_1_name_Li Gong,5.943584877924264e-06
+cat__actor_2_name_Delroy Lindo,5.894638072732549e-06
+cat__actor_1_name_Jennifer Garner,5.8682265232458265e-06
+cat__genres_Adventure|Sci-Fi|Thriller,5.811960803320825e-06
+cat__director_name_Gary Fleder,5.747755599714373e-06
+cat__actor_3_name_Stephen Root,5.7046191483527325e-06
+cat__actor_2_name_Joe Morton,5.7019831736541615e-06
+cat__director_name_Sam Mendes,5.637993814922983e-06
+cat__actor_1_name_Alan Rickman,5.622645481468702e-06
+cat__director_name_Zack Snyder,5.5318218623103605e-06
+cat__actor_2_name_Bruce McGill,5.464412328108498e-06
+cat__actor_1_name_Ryan Gosling,5.4342318737599845e-06
+cat__director_name_Paul Greengrass,5.350232919732747e-06
+cat__actor_2_name_Nia Long,5.267596417251051e-06
+cat__actor_2_name_Viggo Mortensen,5.2310724262708866e-06
+cat__actor_2_name_Monica Potter,5.221541020291645e-06
+cat__actor_1_name_Leonard Nimoy,5.175877836882157e-06
+cat__actor_3_name_Jordi Mollà,5.137519679906961e-06
+cat__director_name_Brian Helgeland,5.053297036546962e-06
+cat__director_name_Mel Brooks,5.02766597371159e-06
+cat__genres_Action|Fantasy|Horror|Thriller,4.983513715550987e-06
+cat__actor_1_name_Radha Mitchell,4.890287083736241e-06
+cat__actor_1_name_Dianne Wiest,4.875092049047808e-06
+cat__actor_2_name_Oliver Platt,4.8591470587730065e-06
+cat__director_name_Anne Fletcher,4.851937561709631e-06
+cat__actor_2_name_Robert De Niro,4.8328888132241375e-06
+cat__actor_1_name_Lea Thompson,4.740437191092706e-06
+cat__actor_3_name_Paul Sorvino,4.574824751829549e-06
+cat__actor_2_name_Bridget Fonda,4.543101696605615e-06
+cat__genres_Action|Adventure|Drama|History|War,4.524687802263461e-06
+cat__director_name_Wolfgang Petersen,4.423159829478399e-06
+cat__director_name_Bryan Singer,4.265017457742289e-06
+cat__director_name_Kevin Reynolds,4.251923543277281e-06
+cat__actor_2_name_Jada Pinkett Smith,4.2158870843623004e-06
+cat__genres_Crime|Drama|Mystery,4.207950166330442e-06
+cat__director_name_Michael Mann,4.155768136916393e-06
+cat__actor_2_name_Kirsten Dunst,4.126035036245834e-06
+cat__main_genre_Romance,4.124072228027034e-06
+cat__actor_1_name_Matthew Broderick,4.117085949978286e-06
+cat__director_name_Roger Donaldson,4.110098984038308e-06
+cat__director_name_Alejandro G. Iñárritu,4.012619651011713e-06
+cat__actor_1_name_Brad Pitt,3.990102795651326e-06
+cat__actor_3_name_Craig T. Nelson,3.957572187481401e-06
+cat__language_Portuguese,3.722540247019964e-06
+cat__actor_3_name_Faizon Love,3.672081928314623e-06
+cat__genres_Comedy|Drama|Family|Romance,3.5889657310942898e-06
+cat__director_name_George Miller,3.4424235994687756e-06
+cat__director_name_Rob Minkoff,3.4078140831918366e-06
+cat__genres_Comedy|Drama|Music|Romance,3.4031545797550278e-06
+cat__director_name_Andrew Adamson,3.3178658622850644e-06
+cat__director_name_James Ivory,3.3070493349074546e-06
+cat__actor_3_name_Richard Schiff,3.306965463062046e-06
+cat__genres_Biography|Drama|Thriller,3.260733858425289e-06
+cat__director_name_David Gordon Green,3.175844309708098e-06
+cat__genres_Drama|Horror,3.095705048995425e-06
+cat__director_name_Doug Liman,3.0468159746762655e-06
+cat__director_name_Baz Luhrmann,3.0205124248287602e-06
+cat__actor_2_name_Harold Perrineau,2.9237554156182972e-06
+cat__director_name_David Fincher,2.7549102964254813e-06
+cat__country_Ireland,2.7203987452644494e-06
+cat__director_name_Gus Van Sant,2.6994286436308746e-06
+cat__director_name_Phillip Noyce,2.6196018322485764e-06
+cat__director_name_Paul Thomas Anderson,2.5527792572548536e-06
+cat__actor_2_name_Anthony Hopkins,2.546624835621481e-06
+cat__actor_3_name_Kirsten Dunst,2.5064800654985048e-06
+cat__actor_2_name_Naomi Watts,2.4232761633757144e-06
+cat__director_name_Mike Nichols,2.3588216149806118e-06
+cat__actor_2_name_Snoop Dogg,2.341559191044137e-06
+cat__actor_2_name_Nathan Lane,2.3298356025872732e-06
+cat__actor_2_name_Matt Damon,2.228767898245592e-06
+cat__actor_2_name_Will Ferrell,2.0979296258520047e-06
+cat__genres_Adventure|Animation|Comedy|Family|Sci-Fi,1.8851660438523878e-06
+cat__director_name_Justin Lin,1.8522078957633166e-06
+cat__director_name_Stephen Daldry,1.7378262671764041e-06
+cat__director_name_Quentin Tarantino,1.6572630283644179e-06
+cat__director_name_Jay Roach,1.5648795046282854e-06
+cat__actor_2_name_Loretta Devine,1.526144279270069e-06
+cat__actor_2_name_Barbara Hershey,1.4237404805585387e-06
+cat__actor_1_name_Alicia Witt,1.349730536130817e-06
+cat__actor_1_name_Benedict Cumberbatch,1.2973576220979808e-06
+cat__actor_2_name_Mike Starr,1.2585082687871636e-06
+cat__actor_2_name_Bruce Willis,1.2558736590555452e-06
+cat__actor_2_name_Vin Diesel,1.2238821507820364e-06
+cat__language_Korean,1.1923254216561045e-06
+cat__genres_Comedy|Drama|Musical|Romance,1.1681412388182963e-06
+cat__actor_3_name_Derek Luke,1.102014749546652e-06
+cat__director_name_Guy Ritchie,8.297896287278897e-07
+cat__actor_3_name_Kris Marshall,8.229996452287401e-07
+cat__actor_3_name_Bob Gunton,7.833348174900502e-07
+cat__director_name_Christopher Nolan,7.767520274746151e-07
+cat__actor_2_name_Jennifer Jason Leigh,7.443354965581285e-07
+cat__actor_1_name_Josh Hutcherson,6.275660240073188e-07
+cat__actor_2_name_Jeff Bridges,5.718246879118196e-07
+cat__genres_Action|Adventure|Romance,5.007084242903678e-07
+cat__director_name_Edward Zwick,4.264159252079738e-07
+cat__actor_2_name_Christian Bale,4.0454314163943667e-07
+cat__genres_Comedy|Crime|Mystery,3.520516509697986e-07
+cat__actor_2_name_Philip Seymour Hoffman,2.9141462082870984e-07
+cat__director_name_Gore Verbinski,2.831220325583691e-07
+cat__genres_Action|Mystery|Thriller,1.768797851374766e-07
+cat__director_name_Ben Stiller,1.3660534508880005e-07
+cat__director_name_Sidney Lumet,1.2297482697420177e-07
+cat__actor_2_name_Orlando Bloom,1.1751306110527727e-07
+cat__genres_Drama|Romance|Sport,1.0272495078224743e-07
+cat__actor_2_name_Sam Shepard,9.680804431119774e-08
+cat__actor_1_name_Quentin Tarantino,9.331857585325272e-08
+cat__actor_2_name_Mike Epps,8.104248244934373e-08
+cat__director_name_David O. Russell,7.948066673617891e-08
+cat__actor_3_name_Gary Oldman,5.333795637622584e-08
+cat__actor_2_name_Dylan Baker,3.410004375502896e-08
+cat__genres_Drama|Sci-Fi,1.8010390124349938e-08
+cat__genres_Drama|Musical|Romance,5.865135921748809e-09
+cat__genres_Action|Adventure|Drama|Sci-Fi,5.420975540153864e-17
+cat__actor_1_name_Vivica A. Fox,3.7063363346825443e-20
+cat__actor_2_name_Cary-Hiroyuki Tagawa,0.0
+cat__actor_2_name_Bruce Greenwood,0.0
+cat__actor_2_name_Bruce Dern,0.0
+cat__actor_2_name_Al Pacino,0.0
+cat__actor_2_name_Blythe Danner,0.0
+cat__actor_3_name_Ellen Barkin,0.0
+cat__director_name_Michael Apted,0.0
+cat__director_name_Marc Forster,0.0
+cat__country_Norway,0.0
+cat__director_name_Gavin O'Connor,0.0
+cat__actor_2_name_Chloë Grace Moretz,0.0
+cat__director_name_Antoine Fuqua,0.0
+cat__actor_2_name_Dougray Scott,0.0
+cat__actor_2_name_Lili Taylor,0.0
+cat__genres_Comedy|Musical,0.0
+cat__actor_2_name_Olivia Williams,0.0
+cat__actor_3_name_Jon Gries,0.0
+cat__actor_2_name_Sylvester Stallone,0.0
+cat__actor_2_name_Thomas Lennon,0.0
+cat__actor_1_name_Catherine Deneuve,0.0
+cat__genres_Adventure|Drama|Thriller,0.0
+cat__genres_Biography|Comedy|Drama,0.0
+cat__content_rating_NC-17,0.0
+cat__actor_3_name_Philip Baker Hall,0.0

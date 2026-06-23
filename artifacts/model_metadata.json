@@ -1,0 +1,60 @@
+{
+    "model_path": "artifacts\\movie_success_random_forest_model.joblib",
+    "target_column": "Classify",
+    "classes": [
+        "Flop",
+        "Average",
+        "Hit"
+    ],
+    "numeric_features": [
+        "num_critic_for_reviews",
+        "duration",
+        "director_facebook_likes",
+        "actor_3_facebook_likes",
+        "actor_1_facebook_likes",
+        "gross",
+        "num_voted_users",
+        "cast_total_facebook_likes",
+        "facenumber_in_poster",
+        "num_user_for_reviews",
+        "budget",
+        "title_year",
+        "actor_2_facebook_likes",
+        "aspect_ratio",
+        "movie_facebook_likes",
+        "genre_count",
+        "keyword_count",
+        "title_length",
+        "profit",
+        "roi",
+        "movie_age"
+    ],
+    "categorical_features": [
+        "color",
+        "director_name",
+        "actor_2_name",
+        "genres",
+        "actor_1_name",
+        "actor_3_name",
+        "plot_keywords",
+        "language",
+        "country",
+        "content_rating",
+        "main_genre"
+    ],
+    "dropped_columns": [
+        "imdb_score",
+        "Classify",
+        "movie_imdb_link",
+        "movie_title"
+    ],
+    "test_accuracy": 0.8077304261645193,
+    "test_macro_f1": 0.5009016029699862,
+    "test_weighted_f1": 0.7980893457727741,
+    "best_params": {
+        "model__max_depth": 24,
+        "model__min_samples_leaf": 2,
+        "model__min_samples_split": 2,
+        "model__n_estimators": 200
+    }
+}
